@@ -1,4 +1,4 @@
-## Motion Detector App
+## Motion Detector and Tracking App
 This is a simple motion detection application built with Python and OpenCV library to capture video frames and process them to acquire the duration of motion in real-time.
 
 ## Requirements
